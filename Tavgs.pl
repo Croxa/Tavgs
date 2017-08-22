@@ -1,4 +1,4 @@
-#1 usr/bin/perl
+#! usr/bin/perl
 use strict;
 use warnings;
 use Getopt::Long;	#This module is used for the options in the shell
